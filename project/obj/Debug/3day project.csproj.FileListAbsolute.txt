@@ -1,0 +1,7 @@
+C:\Users\KGA\Desktop\project\bin\Debug\3day project.exe.config
+C:\Users\KGA\Desktop\project\bin\Debug\3day project.exe
+C:\Users\KGA\Desktop\project\bin\Debug\3day project.pdb
+C:\Users\KGA\Desktop\project\obj\Debug\3day project.csproj.AssemblyReference.cache
+C:\Users\KGA\Desktop\project\obj\Debug\3day project.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\project\obj\Debug\3day project.exe
+C:\Users\KGA\Desktop\project\obj\Debug\3day project.pdb
